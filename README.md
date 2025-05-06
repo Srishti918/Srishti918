@@ -11,7 +11,7 @@ I'm a passionate developer focused on building impactful software and learning e
 ## 🛠️  Languages and Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootsstrap,materialui,js,react,nodejs,express,mongodb,mysql,git,github,postman,vercel)]
+(https://skillicons.dev/icons?i=js,html,css,tailwind,bootsstrap,materialui,js,react,nodejs,express,mongodb,mysql,git,github,postman,vercel)
 
 
 ---
