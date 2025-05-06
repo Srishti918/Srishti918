@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Srishti Malaviya]
+# 👋 Hello, I'm Srishti Malaviya
 
 I'm a passionate developer focused on building impactful software and learning every day.
 
