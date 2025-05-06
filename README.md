@@ -8,6 +8,13 @@ I'm a passionate developer focused on building impactful software and learning e
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srishti918&show_icons=true&hide_title=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti918&layout=compact&theme=default)
+
+---
+
 ## 🧰 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
