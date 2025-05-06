@@ -8,14 +8,10 @@ I'm a passionate developer focused on building impactful software and learning e
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️  Languages and Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srishti918&show_icons=true&hide_title=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti918&layout=compact&theme=default)
 
----
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootsstrap,materialui,js,react,nodejs,express,mongodb,mysql,git,github,postman,vercel)](https://skillicons.dev)
 
 
 ---
